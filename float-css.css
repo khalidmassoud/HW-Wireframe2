@@ -1,0 +1,32 @@
+/* .main {
+    background-color: blue;
+    border:1px solid red;
+    overflow:auto;
+  }  */
+
+   inside{
+    height:20px;
+    width:20%;
+    
+  }
+  main {
+    float: left;
+    height:300px;
+    width:50%;
+  }
+  aside {
+    float: right;
+    height:300px;
+    width:50%;
+  }
+  outer {
+    height:30px;
+    width:40%;
+  } 
+     
+  footer {
+    clear:both;
+    width: 100%;
+  }
+  
+  
